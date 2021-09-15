@@ -19,7 +19,7 @@ This is the sample C++ project which counts the DNA sequence characters by separ
 <ul>
 
   <li>Download the sample code.</li>
-  <li>Include the <b>getSequenceCount.h</b> header file in your Souce.cpp file.</li>
+  <li>Include the <b>getSequenceCount.h</b> header file in your Source.cpp file.</li>
   
 </ul>
 
@@ -73,4 +73,9 @@ int main()
 	getch();
 }
 </pre>
+
+<h1>Demo</h1>
+
+![image](https://user-images.githubusercontent.com/52635426/133480312-4b594c0a-7238-45dd-9b15-c1515732cacb.png)
+
   
