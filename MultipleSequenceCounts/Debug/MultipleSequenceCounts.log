@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\BSSE\8th Semester\C++\MultipleSequenceCounts\MultipleSequenceCounts\getSequenceCount.h(33,24): warning C4018: '<': signed/unsigned mismatch
+D:\BSSE\8th Semester\C++\MultipleSequenceCounts\MultipleSequenceCounts\Source.cpp(42,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  MultipleSequenceCounts.vcxproj -> D:\BSSE\8th Semester\C++\MultipleSequenceCounts\Debug\MultipleSequenceCounts.exe
